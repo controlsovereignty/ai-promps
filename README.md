@@ -1,2 +1,2 @@
 # ai-promps
-AI propmpts for your lifestyle
+Полезные работающие шаблоны для AI агентов и проектов. Для личного развития.
